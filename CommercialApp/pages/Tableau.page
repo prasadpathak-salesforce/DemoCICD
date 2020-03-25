@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <apex:iframe src="https://public.tableau.com/views/CommercialApp/Dashboard1?:display_count=y&:origin=viz_share_link&:showShareOptions=false&:toolbar=false&">
+  </apex:iframe>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

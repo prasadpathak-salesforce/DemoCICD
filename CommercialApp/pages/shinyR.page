@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <apex:iframe src="https://gallery.shinyapps.io/087-crandash/" scrolling="yes">
+  </apex:iframe>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
