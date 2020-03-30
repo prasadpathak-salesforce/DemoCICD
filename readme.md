@@ -4,4 +4,4 @@ This app focuseson integration with Einstein, Tableau, Shiny Dashboards.
 
 DevOps has been implemented
 
-DEMOCICD
+Workspace migrated
